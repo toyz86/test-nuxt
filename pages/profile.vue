@@ -15,7 +15,7 @@ export default {
     }
   },
   methods: {
-    showAlert (e) {
+    showAlert () {
       alert(this.message)
     }
   }
