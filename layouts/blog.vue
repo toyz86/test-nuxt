@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h4>Ini header</h4>
+    <h4>Header di sini</h4>
     <nuxt/>
-    <h4>Ini side bar</h4>
-    <h4>Ini footer</h4>
+    <h4>Side Bar di sini</h4>
+    <h4>Untuk footer</h4>
   </div>
 </template>
